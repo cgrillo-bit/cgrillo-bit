@@ -1,2 +1,2 @@
 "Why are there so few projects on your GitHub"
->I only write code for money
+>I  write code for money
